@@ -12,7 +12,8 @@ Genuine Questions
 -How does project planning happen on the team?
 -What brought you to this company?
 -What has been the most challenging for you?
--Is there any insight you would like to share about the culture of the company and or team I will be working with?
+-Is there any insight you would like to share about the culture of the company and or team I will 
+    be working with?
 
 
 
@@ -29,7 +30,7 @@ Insightful Questions
 Passion Questions
 =====================================================================================================
 - I'm very interested in scalability, and I'd love to learn more about it. What opportunites are there
-at this company to learn about this?
+    at this company to learn about this?
 - I'm not familiar with technology x, but it sounds like a very interesting solution. Could you tell me
-a bit more about how it works?
+    a bit more about how it works?
 

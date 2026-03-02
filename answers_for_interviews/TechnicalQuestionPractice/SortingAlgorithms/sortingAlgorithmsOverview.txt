@@ -1,0 +1,13 @@
+algorithm           Best            Average             Worst           Description                                     Usage
+Bubble Sort         O(n)            O(n^2)              O(n^2)          Repeatedly swaps adjacent elements
+Selection Sort      O(n^2)          O(n^2)              O(n^2)          Finds minimum each pass
+Insertion Sort      O(n)            O(n^2)              O(n^2)          
+Merge Sort          O(n log n)      O(n log n)          O(n log n)      Divide and Conquer (Split, Sort, Merge)
+Quick Sort          O(n log n)      O(n log n)          O(n^2)          Pivot, Part, Recussively Sort
+Heap Sort           O(n log n)      O(n log n)          O(n log n)      Build Binary Heap, Extract Max                  Constant Memory
+Counting Sort       O(n + k)
+Radix Sort          O(d(n+k))
+Bucket Sort         O(n+k)Average
+Timsort
+Dual-pivot quicksort
+Introsort

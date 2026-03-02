@@ -16,7 +16,7 @@ Why do I want to work for_______?
     - Universal
     - Space Force
     - Air Force
-    - 
+    - Boeing
 
 =====================================================================================================
 What do I like about a product or team I am interviewing for. What would I improve?
@@ -118,7 +118,11 @@ I tackle challenges by breaking them into smaller pieces and identifying the roo
 assumptions methodically and stay calm under pressure. If there’s a knowledge gap, I proactively research, collaborate,
 or seek clarification. I see challenges as opportunities to learn and improve, not setbacks.
 
+
+
+=====================================================================================================
 What are my weaknesses?
+=====================================================================================================
 - At times I'm an 'over doer'. In the past, I've spent too much time optimizing or making solutions more 
 elegant than neccesary. I've been working on prioritizing maintainability and delivering working versions 
 first before refining. 
@@ -146,8 +150,8 @@ What are my strengths?
 
 
 - I'm adaptable and learn quickly. Proof of this was with transitioning from studying healthcare to 
-computer science which required me to build an entirely new technical skillset. When I switched to computer
-science at OU my degree plan was for 3 years but I finished it in 2. 
+computer science, which required me to build an entirely new technical skillset. When I switched to computer
+science at OU, my degree plan was for 3 years, but I finished it in 2. 
 
 - My military and serving experience has strengthened my accountability and composure under pressure. I 
 take ownership of tasks and follow through and maintain high standards for myself and the quality of work
@@ -178,11 +182,22 @@ at translating complex findings into actionable insights that align with busines
 =====================================================================================================
 Tell me about a time you had to persuade a group of people to make a big change.
 =====================================================================================================
-Situation:
+One example was when I worked as the inbound logistics trainer at Target. Our team unloaded trucks and 
+sorted merchandise into carts that corresponded to specific departments in the store. One recurring 
+problem involved ‘repacks,’ which are boxes containing mixed small items that had to be sorted before 
+stocking. Because the repack sorting area wasn’t clearly labeled, team members frequently sorted items 
+incorrectly. That created confusion during stocking, slowed down the process, and increased labor hours.
 
-Action:
+I realized the root problem wasn’t the team—it was the system. So I proposed redesigning the labeling 
+structure for the repack sorting area, the carts, and the clothing section to make the workflow clearer 
+and more intuitive. I first presented the idea to my managers and explained how clearer labeling could 
+reduce errors, speed up stocking, and improve training for new team members. After getting approval, I 
+implemented the system and trained the team on the updated process.
 
-Result:
+The results were significant. Repack merchandising accuracy improved by about 80%, and sort-and-stock 
+time dropped by roughly 30%. The system worked so well that our district manager later shared the 
+process with other stores in the district. It was a great example of how a small operational change 
+can have a large impact on efficiency.
 
 
 
@@ -228,3 +243,20 @@ Situation:
 Action:
 
 Result:
+
+
+=====================================================================================================
+What annoys you?
+=====================================================================================================
+People who lack integrity and accountability.
+
+
+
+=====================================================================================================
+What about you annoys other people?
+=====================================================================================================
+My drive towards accomplishment has influenced insecurity to arise in others. 
+
+My attempt to clarify uncertainties or resolve conflicts has caused an occasional occurence of annoyance. 
+
+
