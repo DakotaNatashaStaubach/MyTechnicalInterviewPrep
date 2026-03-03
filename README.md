@@ -12,9 +12,9 @@ I couldn't have gotten to where I am alone, so I want to make sure to acknowledg
 
 
 # Technologies Used For Development
-Visual Studio Code 1.109.5 072586267e68ece9a47aa43f8c108e0dcbf44622 x64
-Git 2.53.0.windows.1
-Python 3.14.3
+Visual Studio Code 1.109.5 072586267e68ece9a47aa43f8c108e0dcbf44622 x64  
+Git 2.53.0.windows.1  
+Python 3.14.3  
 
 
 # Sources
