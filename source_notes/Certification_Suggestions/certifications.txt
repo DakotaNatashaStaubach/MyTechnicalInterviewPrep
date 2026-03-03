@@ -1,0 +1,22 @@
+Microsoft
+-MCP
+-MCSE
+-MCSA
+
+Cyber Security
+-
+
+Languages
+-SQL
+-Python
+-Java
+-C
+-C#
+-C++
+-JavaScript
+-TypeScript
+-HTML
+-R
+-VBA
+
+Project Management
