@@ -3,12 +3,12 @@ This repo showcases the depth of my interview preparation for any behavioral or 
 
 # Acknowledgements
 I couldn't have gotten to where I am alone, so I want to make sure to acknowledge all those who have helped me along the way with a great thanks and declaration of appreciation.  Those credited to my current and future success:
--Jesus
--My Immediate and Extended family
--Staff and Peers at the various Educational Institutions I've attended
--Military Leaders and Friends
--Biblical Spiritual Leaders and Friends
--Co-workers, Managers, and Guests
+-Jesus  
+-My Immediate and Extended family  
+-Staff and Peers at the various Educational Institutions I've attended  
+-Military Leaders and Friends  
+-Biblical Spiritual Leaders and Friends  
+-Co-workers, Managers, and Guests  
 
 
 # Technologies Used For Development
