@@ -1,4 +1,7 @@
-Libraries
+## Download and Install Python 
+   www.python.org
+
+## Libraries
     Data analysis
     -Pandas
     -Numpy
@@ -7,13 +10,13 @@ Libraries
     -Tensorflow
     -Scikit
 
-Frameworks for backend
+## Frameworks for backend
 - Django
 - FastAPI
 - Flask
 
-Tools
+## Tools
 -pytest
 
 
-Download and Install Python at www.python.org
+
